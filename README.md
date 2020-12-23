@@ -6,8 +6,6 @@ I am a Frontend Developer and am proficient in React Native and ReactJS.
 
 ![](https://komarev.com/ghpvc/?username=divanshurox)
 
-<!--
-**divanshurox/divanshurox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <a href="https://twitter.com/DivanshuAgarwa7">
   <img align="left" alt="Divanshu Agarwal | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -35,4 +33,3 @@ Here are some ideas to get you started:
 - 💬 Ask me anything about Photography📷 or Web and App Development! 📱
 - 📫 How to reach me: divanshuagarwal2001@gmail.com
 - ⚡ Fun fact: My joke's loading, probably I didnt start the server.😂
--->
