@@ -13,6 +13,9 @@ I am a Frontend Developer and am proficient in React Native and ReactJS.
 <a href="https://www.linkedin.com/in/divanshu-agarwal-120bab1a0/">
   <img align="left" alt="Divanshu Agarwal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://www.instagram.com/divanshurox/">
+  <img align="left" alt="Divanshu Agarwal's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+</a>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=divanshurox&show_icons=true&theme=gotham" alt="divanshurox" />
 
