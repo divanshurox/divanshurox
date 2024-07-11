@@ -7,17 +7,16 @@ I am a Frontend Developer and am proficient in React Native and ReactJS.
 ![](https://komarev.com/ghpvc/?username=divanshurox)
 
 
-<a href="https://twitter.com/DivanshuAgarwa7">
-  <img align="left" alt="Divanshu Agarwal | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/divanshu-agarwal-120bab1a0/">
-  <img align="left" alt="Divanshu Agarwal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=divanshurox&show_icons=true&theme=gotham" alt="divanshurox" />
 
 **Languages and Tools:**  
 
+<code><img height="20" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Opensearch_Logo.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Docker-svgrepo-com.svg/640px-Docker-svgrepo-com.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
@@ -27,9 +26,9 @@ I am a Frontend Developer and am proficient in React Native and ReactJS.
 **Stuff about me:**
 
 - 🔭 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning RN-Reanimated, Typescript
-- 👯 I’m looking to collaborate on React Native and React JS
+- 🌱 I’m currently upskilling on Go lang.
+- 👯 I’m looking to collaborate on Java, Go lang or anything cool.
 - 🤔 I’m looking for help with Competitive Programming
-- 💬 Ask me anything about Photography📷 or Web and App Development! 📱
-- 📫 How to reach me: divanshuagarwal2001@gmail.com
+- 💬 Ask me anything about Photography📷 or Tech! 📱
+- 📫 How to reach me: divanshu.agarwal1@gmail.com
 - ⚡ Fun fact: My joke's loading, probably I didnt start the server.😂
