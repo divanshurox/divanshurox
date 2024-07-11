@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi I am [Divanshu Agarwal](https://www.linkedin.com/in/divanshu-agarwal-120bab1a0/). I am an undergrad at Thapar University, India 🏫.
-I am a Frontend Developer and am proficient in React Native and ReactJS.
+Hi I am [Divanshu Agarwal](https://www.linkedin.com/in/divanshu-agarwal-120bab1a0/). I am currently working as a software engineer at ION Trading where I am working on a Elastic-based Monitoring Solution for microservice based architecture.  🏫.
+I am a Backend Developer and am proficient in Java, Go lang and Elastic stack.
 
 
 ![](https://komarev.com/ghpvc/?username=divanshurox)
